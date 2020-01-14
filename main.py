@@ -24,3 +24,5 @@ def contacts_html():
 
 
 app.run(host='0.0.0.0',port=8020)
+
+if_name_=='_main_'
